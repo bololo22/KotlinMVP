@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin MVP</string>
+    <string name="title">Gallery of Kitten images</string>
+</resources>
